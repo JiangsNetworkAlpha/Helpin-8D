@@ -12,7 +12,7 @@ class SnowHalationTask extends PluginTask {
 		 * @var $owner SnowHalation
 		 */
 		$owner = $this->getOwner ();
-		$owner->SnowHalation ();
+		$owner->Snow ();
 	}
 }
 ?>
