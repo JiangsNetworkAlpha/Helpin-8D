@@ -1,0 +1,8 @@
+ name: Flyingboat
+ main: FloatingBoat\FloatingBoat
+ version: 1.1-Alpha
+ author: Kevinjiang,TylerGamerYT
+ api:
+ - 1.12.0
+ - 1.13.0
+ - 2.0.0
